@@ -1,0 +1,4 @@
+P1001|passcode|Alice Brown|1980-05-14|Female|A+|P1001@gmail.com|90001234|Chicken Pox
+P1002|password|Bob Stone|1975-11-22|Male|B+|bob.stone@example.com|91222222|Diabetes
+P1003|password|Charlie White|1990-07-08|Male|O-|charlie.white@example.com|91222222|Obesity
+p1|1|Tom Brown|1980-05-14|Male|A+|paddddng123@hotmail.com|91111111|cancer4.0
