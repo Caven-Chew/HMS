@@ -1,0 +1,10 @@
+d7cfc7db-b13f-49ed-8f93-87216c8b8e5c|John Smith|30-10-2024|10:10|false|settled|P1001|D001
+d7cfc7db-b13f-49ed-8f93-87216c8b8u5a|John Smith|30-10-2024|10:20|false|settled|P1001|D001
+d7cfc7db-b13f-49ed-8f93-87216c8b8e5f|John Smith|30-10-2024|10:50|false|settled|P1001|D001
+d7cfc7db-b13f-49ed-8f93-87216c8b8e5b|Emily Clarke|30-10-2024|11:10|false|declined|P1001|D002
+d7cfc7db-b13f-49ed-8f93-87216c8b7u5a|John Smith|30-10-2024|10:20|false|settled|p1|D001
+d7cfc7db-b13f-49ed-8f93-87216c8b5u5a|John Smith|29-10-2024|10:20|false|settled|P1001|D001
+d7cfc7db-b13f-49ed-8f93-87517c8b5u6a|John Smith|25-11-2024|10:30|false|settled|P1001|D001
+6e1370ef-94ef-4492-a877-c23dc098364e|John Smith|24-11-2024|15:10|false|confirmed|P1001|D001
+8e19319d-1b23-4cb5-84f0-7aef7183be46|John Smith|10-12-2024|12:12|true|available|NONE|D001
+b32e6092-6840-4f66-a0cb-5fa0917a1921|John Smith|23-11-2024|13:15|false|pending|P1001|D001

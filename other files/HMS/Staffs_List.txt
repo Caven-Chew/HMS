@@ -1,0 +1,8 @@
+D001|p|John Smith|Doctor|Male|45
+D002|password|Emily Clarke|Doctor|Female|38
+P001|password|Mark Lee|Pharmacist|Male|29
+A001|p|Sarah Lee|Administrator|Female|40
+A002|p|Mummy Shark|Administrator|Female|40
+D1|pw|Good Doctor|Doctor|Male|10
+p1|1|Me|Pharmacist|Male|2
+a1|1|Coco Melon|Administrator|Male|5000
